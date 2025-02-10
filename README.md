@@ -22,7 +22,8 @@ This project is an interactive **Hospital Emergency Room (ER) Dashboard** design
 - `README.md` – Project documentation  
 
 ## **📷 Dashboard Preview**  
-![Dashboard Screenshot](your-image-link-here)  
+![image](https://github.com/user-attachments/assets/2e69422c-00e8-4961-ac5d-3a1a6fef0e24)
+
 
 ## **📌 How to Use**  
 1. Open the `Dashboard.pbix` file in Power BI  
