@@ -28,7 +28,7 @@ This repository contains two interactive Excel dashboards built on the Adventure
 - `README.md` – Project documentation
 
 ## **📷 Dashboard Preview**  
-![image](https://github.com/user-attachments/assets/2e69422c-00e8-4961-ac5d-3a1a6fef0e24)
+![image](https://github.com/Abhinavhanda10503/EXCEL-PROJECTS/blob/2d320ee34f3bb5439acdd8543879c6554cfcb586/Adventure%20work%20Excel%20/Dashboard%20Images/Detail%20Dashboard.png)
 
 📌 **How to Use**  
 1. Open the respective Excel dashboard file in Excel 365.  
